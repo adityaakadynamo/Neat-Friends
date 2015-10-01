@@ -21,7 +21,7 @@
         <meta-data android:name="Layers_Developer" android:value="Aditya Gupta"/>
         <meta-data android:name="Layers_Colors" android:value=""/>
         <meta-data android:name="Layers_Description" android:value="Theme Based on Special People called Friends."/>
-        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Keyboard,Framework,Google Keep,Google PlayMusic,Google PlayStore,Google Velvet,Layers Manager,NavBars,Settings,SystemUI,Whatsapp, "/>
+        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Keyboard,Framework,Google Keep,Google PlayMusic,Google PlayStore,Google Velvet,Layers Manager,Settings,SystemUI,Whatsapp, "/>
         <meta-data android:name="Layers_WhatsNew" android:value="v1.0 \n\n- People Who make you 'Who you are',are Friends.Wanted to show them respect,hope 'You' My friend likes it :)"/>
 
     </application>
